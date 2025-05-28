@@ -2,6 +2,7 @@
 2nd Year 2nd Semester project for PHP CLASS. FEEL free to use my project
 
 WHAT'S INSIDE:
+- HTML, CSS AND PHP CODES with sql for the database
 - Travel website with LOGIN, SIGNUP, HOME, DESTINATIONS, TRIP PLANNER, TRAVEL LOG, PROFILE PAGE
 - It can run on Visual Studios and in XAMPP
 - It has a database for login and trip planner
@@ -17,3 +18,4 @@ WHAT TO IMPROVE:
 - more visually apealing desing for trip planner and destinations
 - make trip planner history show in profile webpage
 - have an GMAIL authencator for forget password
+- seperate html from css
